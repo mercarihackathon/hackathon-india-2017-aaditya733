@@ -1,0 +1,7 @@
+work_bookmark 600
+home_bookmark 600
+church 90
+train_station 30
+laundry 30
+cafe 60
+dentist 30

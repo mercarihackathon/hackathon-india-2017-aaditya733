@@ -1,0 +1,6 @@
+work_bookmark 720
+home_bookmark 480
+taxi_stand 60
+gym 60
+grocery_or_supermarpket 60
+bank 60
